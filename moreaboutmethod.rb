@@ -14,3 +14,7 @@ puts ('The weatherman said there is a')
 puts (rand(101).to_s + '% chance of rain,')
 puts ('but you can never trust a weatherman.')
 
+puts(Math::PI)
+puts(Math::E)
+puts(Math.cos(Math ::PI/3))
+puts(Math.log(Math ::E**2))
